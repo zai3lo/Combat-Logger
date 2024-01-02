@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "combatlogger",
+	"version": "1",
+	"name": "Combat Logger",
+	"description": "lol",
+	"authors": [
+		"2Nick"
+	],
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"vv.z.Main"
+		]
+	},
+	"depends": {
+		"minecraft": ">=1.19.2",
+		"java": ">=17"
+	}
+}
