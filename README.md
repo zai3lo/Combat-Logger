@@ -2,6 +2,9 @@
 Minecraft mod that will kick you without combat logging.
 Keybind: F7
 
-# ./gradlew assemble
+# Building
+./gradlew (module):assemble
+e.g ./gradlew v1.19.2:assemble
 
-credit to @ melstarrr on discord for spending a week skidding my mod (failed btw)
+# Credit
+credit to @ melstarrr on discord for spending a week skidding this mod (failed btw)
